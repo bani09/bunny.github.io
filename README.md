@@ -1,0 +1,2 @@
+# bunny.github.io
+cors
